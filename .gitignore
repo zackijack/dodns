@@ -1,0 +1,36 @@
+# Jetbrains IDE project files
+.idea/
+
+# Visual Studio IDE project files
+.vs/
+*.sln
+*.pyproj*
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Mac DS_Store Files
+*.DS_Store
+
+# Python byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Config file
+config.ini
+
+# Cron job log file
+cron.log
+
+# Pyvenv
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+.venv
+pip-selfcheck.json
